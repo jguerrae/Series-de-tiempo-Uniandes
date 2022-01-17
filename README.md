@@ -6,6 +6,7 @@ Mi nombre es Jorge Alberto Guerra. Tomé el curso de Series de Tiempo en el prim
 semestre del 2020 y la idea de este repositorio es doble: por un lado, llevar a la
 práctica toda la teoría vista en clases y por el otro, expandir las herramientas
 computacionales disponibles para hacerlo.
+
 Dado que inicialmente los códigos del curso están en Matlab, poder contar con ellos
 en Python representa una gran ventaja. A la fecha Python es el lenguaje más usado
 a nivel mundial. Tiene aplicaciones que van desde el Desarrollo Web hasta el
